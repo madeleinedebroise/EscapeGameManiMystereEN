@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Téléchargements Mani-Mystère</title>
+<style>
+body{
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 40px auto;
+    padding: 20px;
+}
+a{
+    display:block;
+    margin:15px 0;
+    font-size:18px;
+}
+</style>
+</head>
+<body>
+
+<h1>PACK ESCAPE GAME MANIMYSTERE READY TO PRINT</h1>
+
+<a href="1 - Facilitator's guide.pdf">📄 Download the facilitator's guide </a>
+
+<a href="2 - Satisfaction questionnaire.pdf">📄 Download the satisfaction questionnaire </a>
+
+<a href="Escape game Mani-Mystère ready to print.zip">📦 Download print materials </a>
+
+</body>
+</html>
